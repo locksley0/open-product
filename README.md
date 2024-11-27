@@ -18,12 +18,12 @@ Trust is built through transparency. In an Open Product, every decision, change,
 *	Clear roadmaps: The product’s future is discussed openly with the community, allowing everyone to contribute ideas and vote on the most important features and priorities.
 *	Inclusive decision-making: Decisions regarding the product’s direction, features, and governance are made through democratic processes, ensuring everyone’s voice can be heard.
 *	Transparent progress: The development process is open and documented, so contributors can see the product’s growth in real-time, knowing where their contributions fit into the broader vision.
+*	Transparent finacials: Open Products may (like any) have overheads.  Open Products that generate revenue to pay for these costs will embrace crypto currencies and smart contracts to distrubute "profits" back to the contributors from the community.
 
 ## 4. Sustainable and Ethical Innovation: Building for the Future
 Open Products are not just about building technology; they’re about creating products that are sustainable and responsible. We advocate for products that respect the rights of users and the environment, and we strive to ensure that the products we create have a positive, lasting impact. This involves:
 *	Ethical development: Every decision considers the ethical implications on users, developers, and the environment. We strive for inclusivity, privacy, and security.
 *	Long-term sustainability: Open Products are designed to thrive in the long run. They are built on principles of sustainability, ensuring that they can adapt and grow over time, independent of any commercial interest.
-*	No vendor lock-in: Open Products avoid the trap of proprietary systems. Instead, they empower users by providing the freedom to modify, adapt, and self-host the product.
 
 ## 5. Empowerment Through Access: Democratizing Technology
 We believe that technology should be accessible to everyone. Open Products eliminate barriers to entry, providing anyone with the ability to access, use, and improve upon the product. This vision includes:
